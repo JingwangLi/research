@@ -28,7 +28,9 @@ Distributed/Decentralized Optimization, Operations Research, Data Mining.
 == Publications
 . *Jingwang Li* and Housheng Su\*. "Accelerated distributed gradient descent", in preparation.
 . *Jingwang Li* and Housheng Su\*. "Implicit tracking-based distributed constraint-coupled optimization", in preparation.
-. Housheng Su\* and *Jingwang Li*. "Distributed continuous-time primal-dual algorithms for constrained optimization with exponential convergence", under review (The first author and the corresponding author are both my supervisor).
+. Housheng Su\* and *Jingwang Li*. "Distributed continuous-time primal-dual algorithms for constrained optimization with exponential convergence", under review.
+
+# . Housheng Su\* and *Jingwang Li*. "Distributed continuous-time primal-dual algorithms for constrained optimization with exponential convergence", under review (The first author and the corresponding author are both my supervisor).
 
 == Footmarks
 {{<div id="myMap" style="width: 100%;height:600px;"></div>
