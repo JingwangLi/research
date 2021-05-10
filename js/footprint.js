@@ -2,16 +2,16 @@ var myChart = echarts.init(document.getElementById('myMap'));
 
 var data = [
     {name: 'Tanghe', value: ['forever', 10]}, //Tanghe
-    {name: 'Nanyang', value: ['2011.08', 3]},
+    {name: 'Nanyang', value: ['2011.08, 2020.07', 2]},
     {name: 'Nanjing', value: ['2015.06, 2019.09', 2]},
-    {name: 'Rui\'an', value: ['2015.07-08', 2]},
+    {name: 'Rui\'an', value: ['2015.07-08', 4]},
     {name: 'Wuhan', value: ['2015.09-now', 8]},
-    {name: 'Xi\'an', value: ['2016.08', 2]},
+    {name: 'Xi\'an', value: ['2016.08', 4]},
     {name: 'Pucheng', value: ['2016.07', 1]},
     {name: 'Xunyang', value: ['2016.07-08', 1]},
     {name: 'Changsha', value: ['2016.10', 1]},
     {name: 'Beijing', value: ['2017.10', 1]},
-    {name: 'Guangzhou', value: ['2018.07', 1]},
+    {name: 'Guangzhou', value: ['2018.07, 2020.10-11', 2]},
     {name: 'Shanghai', value: ['2019.09', 1]}
 ];
 
