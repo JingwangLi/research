@@ -15,7 +15,9 @@ var data = [
     {name: 'Shanghai', value: ['2019.09', 1]},
     {name: 'Huangshi', value: ['2021.06', 1]},
     {name: 'Yangxin', value: ['2021.06', 1]},
-    {name: 'Xianning', value: ['2021.06', 1]}
+    {name: 'Xianning', value: ['2021.06', 1]},
+    {name: 'Jiujiang', value: ['2021.06', 1]},
+    {name: 'Wuyuan', value: ['2021.06', 1]},
 ];
 
 var geoCoordMap = {
@@ -33,7 +35,9 @@ var geoCoordMap = {
     'Shanghai': [121.508532,31.289027],
     'Huangshi': [115.055908,30.213034],
     'Yangxin': [114.824866,29.771801],
-    'Xianning': [114.327675,29.847377]
+    'Xianning': [114.327675,29.847377],
+    'Jiujiang': [116.086629,29.668163],
+    'Wuyuan': [117.863271,29.264564],
 };
 
 var convertData = function (data) {
