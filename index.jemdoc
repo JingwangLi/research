@@ -27,9 +27,11 @@ Distributed/Decentralized Optimization, Operations Research, Game Theory, Data M
 
 == Papers
 ## . *Jingwang Li* and Housheng Su\*. "An unified primal-dual framework for distributed constraint-coupled optimization", in preparation.
-. *Jingwang Li* and Housheng Su\*. "Fast nested decentralized gradient methods", submitted.
 . *Jingwang Li* and Housheng Su\*. "Implicit tracking-based distributed constraint-coupled optimization", submitted.
-. Housheng Su\*, *Jingwang Li* and Zhigang Zeng. "Distributed continuous-time primal-dual algorithms for constrained optimization with exponential convergence", submitted.
+. *Jingwang Li* and Housheng Su\*. "Nested primal-dual gradient algorithms for distributed constraint-coupled optimization", submitted.
+. *Jingwang Li*, Qing An and Housheng Su\*. "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization", submitted.
+. *Jingwang Li*, Qing An and Housheng Su\*. "Fast nested decentralized gradient methods", submitted.
+. Housheng Su\*, *Jingwang Li* and Zhigang Zeng. "Exponentially convergent distributed continuous-time primal-dual algorithm for constrained optimization", submitted.
 
 
 == Footmarks

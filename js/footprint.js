@@ -2,7 +2,7 @@ var myChart = echarts.init(document.getElementById('myMap'));
 
 var data = [
     {name: 'Tanghe', value: ['forever', 10]}, //Tanghe
-    {name: 'Nanyang', value: ['2011.08, 2020.07', 2]},
+    {name: 'Nanyang', value: ['2020.07', 2]},
     {name: 'Nanjing', value: ['2015.06, 2019.09', 2]},
     {name: 'Rui\'an', value: ['2015.07-08', 4]},
     {name: 'Wuhan', value: ['2015.09-now', 8]},
