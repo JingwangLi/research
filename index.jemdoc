@@ -14,22 +14,22 @@ Master sudent, major in Control Science & Engineering
 Distributed/Decentralized Optimization, Operations Research.
 
 == Education
-- 2015-2016 : Aquatic Science & Technology, College of Fisheries, Huazhong Agricultural University
-- 2016-2019 : B.Mgt. in Engineering Management, School of Public Administration, Huazhong Agricultural University
 - 2019-2022 : Control Science & Engineering, School of Artifical Intelligence & Automation, Huazhong University of Science & Technology
+- 2016-2019 : B.Mgmt. in Engineering Management, School of Public Administration, Huazhong Agricultural University
+- 2015-2016 : Aquatic Science & Technology, College of Fisheries, Huazhong Agricultural University
+
+== Preprints
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2201.07627.pdf "Implicit tracking-based distributed constraint-coupled optimization"], arXiv preprint arXiv:2201.07627.
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2202.09804.pdf "Gradient tracking: a unified approach to smooth distributed optimization"], arXiv preprint arXiv:2202.09804.
 
 == Awards
-- 2017.11, [http://storage.jingwang.site/doc/2017-CUMCM.pdf China Undergraduate Mathematical Contest in Modeling, First prize]
-- 2017.12, [http://storage.jingwang.site/doc/2017-HZAU-Programming-Contest.pdf Huazhong Agricultural University Sixth Programming Contest, Second Prize]
-- 2019.06, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Graduate.pdf Huazhong Agricultural University Excellent Graduate]
-- 2019.09, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Bachelor-Degree-Thesis.pdf Huazhong Agricultural University Excellent Bachelor Degree Thesis]
 - 2019.09, [http://storage.jingwang.site/doc/2019-ICICM.pdf National Innovation Contest for Intelligent Construction and Management, First prize]
+- 2019.09, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Bachelor-Degree-Thesis.pdf Huazhong Agricultural University Excellent Bachelor Degree Thesis]
+- 2019.06, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Graduate.pdf Huazhong Agricultural University Excellent Graduate]
+- 2017.12, [http://storage.jingwang.site/doc/2017-HZAU-Programming-Contest.pdf Huazhong Agricultural University Sixth Programming Contest, Second Prize]
+- 2017.11, [http://storage.jingwang.site/doc/2017-CUMCM.pdf China Undergraduate Mathematical Contest in Modeling, First prize]
 
-== Papers
-. *Jingwang Li* and Housheng Su\*. "Implicit tracking-based distributed constraint-coupled optimization", submitted.
-. *Jingwang Li* and Housheng Su\*. "Nested primal-dual gradient algorithms for distributed constraint-coupled optimization", submitted.
-. *Jingwang Li*, Qing An and Housheng Su\*. "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization", submitted.
-. *Jingwang Li*, Qing An and Housheng Su\*. "Fast nested decentralized gradient methods", submitted.
+
 
 
 
