@@ -11,7 +11,7 @@ Master sudent, major in Control Science & Engineering
 ~~~
 
 == Research Interests
-Distributed/Decentralized Optimization, Operations Research.
+Distributed/decentralized optimization.
 
 == Education
 - 2019-2022 : Control Science & Engineering, School of Artifical Intelligence & Automation, Huazhong University of Science & Technology
@@ -23,18 +23,19 @@ Distributed/Decentralized Optimization, Operations Research.
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2202.09804.pdf "Gradient tracking: a unified approach to smooth distributed optimization"], arXiv preprint arXiv:2202.09804.
 
 == Awards
+- 2022.05, Excellent Graduate of Huazhong University of Science & Technology
 - 2019.09, [http://storage.jingwang.site/doc/2019-ICICM.pdf National Innovation Contest for Intelligent Construction and Management, First prize]
-- 2019.09, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Bachelor-Degree-Thesis.pdf Huazhong Agricultural University Excellent Bachelor Degree Thesis]
-- 2019.06, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Graduate.pdf Huazhong Agricultural University Excellent Graduate]
-- 2017.12, [http://storage.jingwang.site/doc/2017-HZAU-Programming-Contest.pdf Huazhong Agricultural University Sixth Programming Contest, Second Prize]
+- 2019.09, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Bachelor-Degree-Thesis.pdf Excellent Bachelor Degree Thesis of Huazhong Agricultural University]
+- 2019.06, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Graduate.pdf Excellent Graduate of Huazhong Agricultural University]
+- 2017.12, [http://storage.jingwang.site/doc/2017-HZAU-Programming-Contest.pdf The Sixth Programming Contest of Huazhong Agricultural University, Second Prize]
 - 2017.11, [http://storage.jingwang.site/doc/2017-CUMCM.pdf China Undergraduate Mathematical Contest in Modeling, First prize]
 
 
 
 
 
-== Footmarks
-{{<div id="myMap" style="width: 100%;height:600px;"></div>
-<script type="text/javascript" src="./js/echarts.min.js"></script>
-<script type="text/javascript" src="./js/china.js"></script>
-<script type="text/javascript" src="./js/footprint.js"></script>}}
+# == Footmarks
+# {{<div id="myMap" style="width: 100%;height:600px;"></div>
+# <script type="text/javascript" src="./js/echarts.min.js"></script>
+# <script type="text/javascript" src="./js/china.js"></script>
+# <script type="text/javascript" src="./js/footprint.js"></script>}}
