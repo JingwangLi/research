@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "https://academicpage.netlify.app/*"
-  to = "https://jingwang.site/:splat"
-  status = 301
-  force = true
