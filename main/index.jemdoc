@@ -11,7 +11,7 @@ Master sudent, major in Control Science & Engineering
 ~~~
 
 == Research Interests
-Distributed/decentralized optimization.
+Distributed/decentralized optimization, federated learning, trajectory optimization.
 
 == Education
 - 2019-2022 : Control Science & Engineering, School of Artifical Intelligence & Automation, Huazhong University of Science & Technology
@@ -21,9 +21,10 @@ Distributed/decentralized optimization.
 == Preprints
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2201.07627.pdf "Implicit tracking-based distributed constraint-coupled optimization"], arXiv preprint arXiv:2201.07627.
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2202.09804.pdf "Gradient tracking: a unified approach to smooth distributed optimization"], arXiv preprint arXiv:2202.09804.
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2205.11119.pdf "Nested primal-dual gradient algorithms for distributed constraint-coupled optimization"], arXiv preprint arXiv:2205.11119.
 
 == Awards
-- 2022.05, Excellent Graduate of Huazhong University of Science & Technology
+- 2022.05, [http://storage.jingwang.site/doc/2022-HUST-Excellent-Graduate.pdf Excellent Graduate of Huazhong University of Science & Technology]
 - 2019.09, [http://storage.jingwang.site/doc/2019-ICICM.pdf National Innovation Contest for Intelligent Construction and Management, First prize]
 - 2019.09, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Bachelor-Degree-Thesis.pdf Excellent Bachelor Degree Thesis of Huazhong Agricultural University]
 - 2019.06, [http://storage.jingwang.site/doc/2019-HZAU-Excellent-Graduate.pdf Excellent Graduate of Huazhong Agricultural University]
