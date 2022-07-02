@@ -3,10 +3,10 @@
 
 ~~~
 {}{img_left}{./ljw.jpg}{alt text}{150}{200}
-# == Research Interests
-Algorithm Engineer in [http://www.fabu.ai fabu.ai]
-\n Email: [JingwangLi@outlook.com]
-\n [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Jingwang_Li ResearchGate] | [https://github.com/JingwangLi Github]
+== About
+I am an algorithm engineer in [http://www.fabu.ai fabu.ai] since June 2022. Before that, I was a master student in the School of Artifical Intelligence & Automation of Huazhong University of Science & Technology, where I worked on distributed/decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Housheng Su]. Prior to that, I graduated from Huazhong Agricultural University and got a bachelor degree in management, where I transfered from the School of Fisheries to the School of Public Administration in the sophomore year.
+# \n Email: [JingwangLi@outlook.com]
+\n [JingwangLi@outlook.com Email] | [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Jingwang_Li ResearchGate] | [https://github.com/JingwangLi Github]
 ~~~
 
 == Research Interests
@@ -17,10 +17,13 @@ Distributed/decentralized optimization and learning.
 - 2016.09-2019.06 : B.Mgmt. in Engineering Management, School of Public Administration, Huazhong Agricultural University
 - 2015.09-2016.07 : Aquatic Science & Technology, School of Fisheries, Huazhong Agricultural University
 
+== Publications
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2201.07627 "Implicit tracking-based distributed constraint-coupled optimization"], Conditionally accepted by IEEE Transactions on Control of Network Systems. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
+
 == Preprints
-. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2201.07627.pdf "Implicit tracking-based distributed constraint-coupled optimization"], arXiv preprint arXiv:2201.07627.
-. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2202.09804.pdf "Gradient tracking: A unified approach to smooth distributed optimization"], arXiv preprint arXiv:2202.09804.
-. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2205.11119.pdf "Nested primal-dual gradient algorithms for distributed constraint-coupled optimization"], arXiv preprint arXiv:2205.11119.
+# . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2201.07627.pdf "Implicit tracking-based distributed constraint-coupled optimization"], arXiv preprint arXiv:2201.07627. 
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2202.09804 "Gradient tracking: A unified approach to smooth distributed optimization"], arXiv preprint arXiv:2202.09804. \[[https://arxiv.org/pdf/2202.09804.pdf PDF]\]
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2205.11119 "Nested primal-dual gradient algorithms for distributed constraint-coupled optimization"], arXiv preprint arXiv:2205.11119. \[[https://arxiv.org/pdf/2205.11119.pdf PDF]\]
 
 == Awards
 - 2022.06, [http://storage.jingwang.site/doc/2022-HUST-Outstanding-Graduate.pdf Outstanding Graduate of Huazhong University of Science & Technology]
