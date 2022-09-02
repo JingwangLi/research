@@ -19,7 +19,7 @@ Distributed/decentralized optimization and learning.
 
 == Papers
 # . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/pdf/2201.07627.pdf "Implicit tracking-based distributed constraint-coupled optimization"], arXiv preprint arXiv:2201.07627. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
-. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2201.07627 "Implicit tracking-based distributed constraint-coupled optimization"], accepted by IEEE Transactions on Control of Network Systems. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
+. *Jingwang Li* and Housheng Su\*. [https://doi.org/10.1109/TCNS.2022.3203486 "Implicit tracking-based distributed constraint-coupled optimization"], IEEE Transactions on Control of Network Systems, 2022. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2202.09804 "Gradient tracking: A unified approach to smooth distributed optimization"], arXiv preprint arXiv:2202.09804. \[[https://arxiv.org/pdf/2202.09804.pdf PDF]\]
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2205.11119 "Nested primal-dual gradient algorithms for distributed constraint-coupled optimization"], arXiv preprint arXiv:2205.11119. \[[https://arxiv.org/pdf/2205.11119.pdf PDF]\]
 
