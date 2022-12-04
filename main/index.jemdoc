@@ -2,7 +2,7 @@
 == Jingwang Li
 
 ~~~
-{}{img_left}{./ljw.jpg}{alt text}{150}{200}
+{}{img_left}{./JingwangLi.jpg}{alt text}{150}{200}
 == About
 Since Jun. 2022, I has been an autopilot algorithm engineer in [http://www.fabu.ai FABU.AI], where I focus on addressing various optimization problems emerging in the field of autonomous driving. Before that, I was a master student in the School of Artifical Intelligence & Automation of Huazhong University of Science & Technology, where I worked on distributed/decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Housheng Su]. Prior to that, I graduated from Huazhong Agricultural University and got a bachelor degree in management, where I transfered from the School of Fisheries to the School of Public Administration in the sophomore year.
 # \n Email: [JingwangLi@outlook.com]
@@ -37,3 +37,5 @@ Distributed/decentralized optimization and learning.
 # <script type="text/javascript" src="./js/echarts.min.js"></script>
 # <script type="text/javascript" src="./js/china.js"></script>
 # <script type="text/javascript" src="./js/footprint.js"></script>}}
+
+# python ../jemdoc -c mysite.conf index.jemdoc
