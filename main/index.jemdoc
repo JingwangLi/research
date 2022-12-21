@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{./JingwangLi.jpg}{alt text}{150}{200}
 == About
-Since Jun. 2022, I has been an autopilot algorithm engineer in [http://www.fabu.ai FABU.AI], where I focus on addressing various optimization problems emerging in the field of autonomous driving. Before that, I was a master student in the School of Artifical Intelligence & Automation of Huazhong University of Science & Technology, where I worked on distributed/decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Housheng Su]. Prior to that, I graduated from Huazhong Agricultural University and got a bachelor degree in management, where I transfered from the School of Fisheries to the School of Public Administration in the sophomore year.
+Since Jun. 2022, I has been an autopilot algorithm engineer in [http://www.fabu.ai FABU.AI], where I focus on addressing various optimization problems emerging in autonomous driving. Before that, I was a master student in the School of Artifical Intelligence & Automation of Huazhong University of Science & Technology, where I worked on distributed/decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Housheng Su]. Prior to that, I graduated from Huazhong Agricultural University and got a bachelor degree in engineering management.
 # \n Email: [JingwangLi@outlook.com]
 \n [JingwangLi@outlook.com Email] | [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Jingwang_Li ResearchGate] | [https://github.com/JingwangLi Github]
 ~~~
@@ -13,21 +13,24 @@ Since Jun. 2022, I has been an autopilot algorithm engineer in [http://www.fabu.
 Distributed/decentralized optimization and learning.
 
 == Education
-- Sept. 2019 - Jun. 2022 : M.S. in Control Science & Engineering, School of Artifical Intelligence & Automation, Huazhong University of Science & Technology
-- Sept. 2016 - Jun. 2019 : B.Mgmt. in Engineering Management, School of Public Administration, Huazhong Agricultural University
-- Sept. 2015 - Jul. 2016 : Aquatic Science & Technology, School of Fisheries, Huazhong Agricultural University
+- Sept. 2019 - Jun. 2022 : M.S. in control science & engineering, School of Artifical Intelligence & Automation, Huazhong University of Science & Technology
+- Sept. 2016 - Jun. 2019 : B.S. in engineering management, School of Public Administration, Huazhong Agricultural University
+- Sept. 2015 - Jul. 2016 : aquatic science & technology, School of Fisheries, Huazhong Agricultural University
 
-== Papers
-. *Jingwang Li* and Housheng Su\*. [https://doi.org/10.1109/TCNS.2022.3203486 "Implicit tracking-based distributed constraint-coupled optimization"], IEEE Transactions on Control of Network Systems, 2022. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
-. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2202.09804 "Gradient tracking: A unified approach to smooth distributed optimization"], arXiv:2202.09804, 2022. \[[https://arxiv.org/pdf/2202.09804.pdf PDF]\]
-. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2205.11119 "Nested primal-dual gradient algorithms for distributed constraint-coupled optimization"], arXiv:2205.11119, 2022. \[[https://arxiv.org/pdf/2205.11119.pdf PDF]\]
+== Preprints
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2205.11119 "Nested primal-dual gradient algorithms for distributed constraint-coupled optimization"], /arXiv:2205.11119/, 2022. \[[https://arxiv.org/pdf/2205.11119.pdf PDF]\]
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2202.09804 "Gradient tracking: A unified approach to smooth distributed optimization"], /arXiv:2202.09804/, 2022. \[[https://arxiv.org/pdf/2202.09804.pdf PDF]\]
+
+== Publications
+. *Jingwang Li* and Housheng Su\*. [https://doi.org/10.1109/TCNS.2022.3203486 "Implicit tracking-based distributed constraint-coupled optimization"], /IEEE Transactions on Control of Network Systems/, 2022. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
+. *Jingwang Li*, Qing An and Housheng Su\*. "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization", /Applied Mathematics and Computation/, 2023.
 
 == Awards
 - Jun. 2022, [http://storage.jingwang.site/doc/2022-HUST-Outstanding-Graduate.pdf Outstanding Graduate of Huazhong University of Science & Technology]
 - Sept. 2019, [http://storage.jingwang.site/doc/2019-ICICM.pdf National Innovation Contest for Intelligent Construction and Management, First prize]
 - Sept. 2019, [http://storage.jingwang.site/doc/2019-HZAU-Outstanding-Bachelor-Degree-Thesis.pdf Outstanding Bachelor Degree Thesis of Huazhong Agricultural University]
 - Jun. 2019, [http://storage.jingwang.site/doc/2019-HZAU-Outstanding-Graduate.pdf Outstanding Graduate of Huazhong Agricultural University]
-- Dec. 2017, [http://storage.jingwang.site/doc/2017-HZAU-Programming-Contest.pdf The Sixth Programming Contest of Huazhong Agricultural University, Second prize]
+- Dec. 2017, [http://storage.jingwang.site/doc/2017-HZAU-Programming-Contest.pdf Programming Contest of Huazhong Agricultural University, Second prize]
 - Nov. 2017, [http://storage.jingwang.site/doc/2017-CUMCM.pdf China Undergraduate Mathematical Contest in Modeling, First prize]
 
 
@@ -39,3 +42,4 @@ Distributed/decentralized optimization and learning.
 # <script type="text/javascript" src="./js/footprint.js"></script>}}
 
 # python ../jemdoc -c mysite.conf index.jemdoc
+# *bold* /italic/ _underscore_ 
