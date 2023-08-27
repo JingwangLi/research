@@ -4,13 +4,13 @@
 ~~~
 {}{img_left}{./JingwangLi.jpg}{alt text}{150}{200}
 == About
-Since Jun. 2022, I has been an R&D engineer in [http://www.fabu.ai FABU.AI], where I focus on addressing various optimization problems emerging in autonomous driving. Before that, I was a master student in the School of Artifical Intelligence & Automation of Huazhong University of Science & Technology, where I worked on distributed/decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Prior to that, I graduated from Huazhong Agricultural University and got a bachelor degree in engineering management.
+Since Jun. 2022, I has been an R&D engineer in [http://www.fabu.ai FABU.AI], where I focus on addressing various optimization problems emerging in autonomous driving. Before that, I was a master student in the School of Artifical Intelligence & Automation of Huazhong University of Science & Technology, where I worked on decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Prior to that, I graduated from Huazhong Agricultural University and got a bachelor degree in engineering management.
 # \n Email: [JingwangLi@outlook.com]
-\n [JingwangLi@outlook.com Email] | [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Jingwang_Li ResearchGate] | [https://github.com/JingwangLi Github]
+\n [JingwangLi@outlook.com Email] | [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
 ~~~
 
 == Research Interests
-Decentralized optimization and learning.
+Decentralized optimization.
 
 == Education
 - Sept. 2019 - Jun. 2022 : M.S. in Control Science & Engineering, School of Artifical Intelligence & Automation, Huazhong University of Science & Technology
@@ -24,7 +24,7 @@ Decentralized optimization and learning.
 == Publications
 . *Jingwang Li* and Housheng Su\*. [https://doi.org/10.1109/TCNS.2022.3203486 "Implicit tracking-based distributed constraint-coupled optimization"], /IEEE Transactions on Control of Network Systems/, 2022. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
 . *Jingwang Li*, Qing An and Housheng Su\*. [https://doi.org/10.1016/j.amc.2022.127801 "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization"], /Applied Mathematics and Computation/, 2023.
-. *Jingwang Li*, Suoxia Miao and Housheng Su\*. [https://doi.org/10.1007/978-981-19-6613-2_96 "Distributed Primal-Dual Mirror Dynamics for Constraint-Coupled Optimization"], /International Conference on Guidance, Navigation and Control/, 2022.
+. *Jingwang Li*, Suoxia Miao and Housheng Su\*. [https://doi.org/10.1007/978-981-19-6613-2_96 "Distributed primal-dual mirror dynamics for constraint-coupled optimization"], /International Conference on Guidance, Navigation and Control/, 2022.
 
 == Awards
 - Jun. 2022, [http://storage.jingwang.site/doc/2022-HUST-Outstanding-Graduate.pdf Outstanding Graduate of Huazhong University of Science & Technology]
