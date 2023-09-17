@@ -39,8 +39,8 @@ body {
 	background: white;
 	text-align: left;
 	vertical-align: top;
-	min-width: 800px;
-	width: 800px;
+	min-width: 100%;
+	width: 100%;
 }
 
 #layout-menu a {
