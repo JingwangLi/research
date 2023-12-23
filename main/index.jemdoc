@@ -4,15 +4,16 @@
 ~~~
 {}{img_left}{./JingwangLi.jpg}{alt text}{150}{200}
 == About
-Since Sept. 2023, I have been working as an Research Assistant in [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)], where my research focuses on non-smooth decentralized optimization under the supervision of [https://www.xiao-li.org/ Dr. Xiao Li]. From Jun. 2022 to Sept. 2023, I worked as an R&D Engineer at [http://www.fabu.ai FABU.AI], focusing on addressing optimization problems in the field of autonomous driving. Prior to that, I pursued my master's degree at [http://english.hust.edu.cn/ Huazhong University of Science & Technology], where I conducted research on the theory of decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Before that, I obtained my bachelor's degree from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University].
+Since Sept. 2023, I have been an Research Assistant in [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)], where my research focuses on non-smooth decentralized optimization under the supervision of [https://www.xiao-li.org/ Prof. Xiao Li]. From Jun. 2022 to Sept. 2023, I was an Algorithm Engineer at [http://www.fabu.ai FABU.AI], focusing on addressing optimization problems of autonomous driving. Prior to that, I pursued my master's degree at [http://english.hust.edu.cn/ Huazhong University of Science & Technology], where I conducted research on the theory of decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Before that, I obtained my bachelor's degree from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University].
 # \n Email: [JingwangLi@outlook.com]
 \n [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
 \n *Contact:* jingwangli\[at\]outlook\[dot\]com
 ~~~
 
 == News
-- Sept. 2023, I began my role as an Research Assistant at CUHK-Shenzhen.
-- Sept. 2023, I resigned from FABU.AI.
+- Dec. 2023: Our work "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization" has been accepted by /IEEE Transactions on Control of Network Systems/!
+- Sept. 2023: I has been an Research Assistant at CUHK-Shenzhen.
+- Sept. 2023: I left FABU.AI.
 
 == Research Interests
 My research interests mainly focus on theory and applications of decentralized optimization, currently I am devoted to developing efficient and robust algorithms for a class of decentralized optimization problems with globally coupled constraints.
@@ -30,10 +31,10 @@ My research interests mainly focus on theory and applications of decentralized o
 
 == Preprints
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2309.06330 "Decentralized constraint-coupled optimization with inexact oracle"], /arXiv:2309.06330/, 2023. \[[https://arxiv.org/pdf/2309.06330.pdf PDF]\]
-. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2205.11119 "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization"], /arXiv:2205.11119/, 2022. \[[https://arxiv.org/pdf/2205.11119.pdf PDF]\]
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2202.09804 "Gradient tracking: A unified approach to smooth distributed optimization"], /arXiv:2202.09804/, 2022. \[[https://arxiv.org/pdf/2202.09804.pdf PDF]\]
 
 == Publications
+. *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2205.11119 "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization"], /IEEE Transactions on Control of Network Systems/ (*accepted and in press*), 2023. \[[https://arxiv.org/pdf/2205.11119.pdf PDF]\]
 . *Jingwang Li* and Housheng Su\*. [https://doi.org/10.1109/TCNS.2022.3203486 "Implicit tracking-based distributed constraint-coupled optimization"], /IEEE Transactions on Control of Network Systems/, 2022. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
 . *Jingwang Li*, Qing An and Housheng Su\*. [https://doi.org/10.1016/j.amc.2022.127801 "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization"], /Applied Mathematics and Computation/, 2023.
 . *Jingwang Li*, Suoxia Miao and Housheng Su\*. [https://doi.org/10.1007/978-981-19-6613-2_96 "Distributed primal-dual mirror dynamics for constraint-coupled optimization"], /International Conference on Guidance, Navigation and Control/, 2022.
