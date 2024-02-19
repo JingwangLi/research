@@ -13,13 +13,13 @@ Research Assistant,
 ~~~
 
 == About
-Since Sept. 2023, I have been a research assistant in [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen (CUHKSZ)], where my research focuses on non-smooth decentralized optimization under the supervision of [https://www.xiao-li.org/ Prof. Xiao Li]. From Jun. 2022 to Sept. 2023, I was an algorithm engineer at [http://www.fabu.ai FABU.AI], focusing on addressing optimization problems related to autonomous driving. Prior to that, I pursued my Master's degree at [http://english.hust.edu.cn/ Huazhong University of Science & Technology], where I conducted research on the theory of decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Before that, I obtained my Bachelor's degree from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University].
+Since Sept. 2023, I have been a research assistant at [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen (CUHKSZ)], where my research focuses on non-smooth decentralized optimization under the supervision of [https://www.xiao-li.org/ Prof. Xiao Li]. From Jun. 2022 to Sept. 2023, I was an algorithm engineer at [http://www.fabu.ai FABU.AI], focusing on addressing optimization problems related to autonomous driving. Prior to that, I pursued my Master's degree at [http://english.hust.edu.cn/ Huazhong University of Science & Technology], where I conducted research on the theory of decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Before that, I obtained my Bachelor's degree from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University].
 
 
 == News
 - Dec. 2023: Our work "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization" has been accepted by /IEEE Transactions on Control of Network Systems/.
-- Sept. 2023: I has become a research assistant at CUHKSZ.
-- Sept. 2023: I left FABU.AI.
+- Sept. 2023: I have become a research assistant at CUHKSZ.
+- Sept. 2023: I resigned from FABU.AI.
 
 == Research Interests
 My research interests mainly focus on theory and applications of decentralized optimization, currently I am interested in developing communication and computation efficient algorithms for a class of decentralized optimization problems with globally coupled constraints. Specifically speaking, consider a networked system composing of n agents, the network topology can be modeled by an undirected or directed graph, then the decentralized optimization problem is defined as
