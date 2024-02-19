@@ -3,31 +3,35 @@
 
 ~~~
 {}{img_left}{./JingwangLi.jpg}{alt text}{150}{200}
-== About
-Since Sept. 2023, I have been a research assistant in [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)], where my research focuses on non-smooth decentralized optimization under the supervision of [https://www.xiao-li.org/ Prof. Xiao Li]. From Jun. 2022 to Sept. 2023, I was an algorithm engineer at [http://www.fabu.ai FABU.AI], focusing on addressing optimization problems of autonomous driving. Prior to that, I pursued my master's degree at [http://english.hust.edu.cn/ Huazhong University of Science & Technology], where I conducted research on the theory of decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Before that, I obtained my bachelor's degree from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University].
+Research Assistant,
+\n School of Date Science,
+\n The Chinese University of Hong Kong, Shenzhen
+\n Shenzhen, China
 # \n Email: [JingwangLi@outlook.com]
 \n [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
 \n *Contact:* jingwangli\[at\]outlook\[dot\]com
 ~~~
 
+== About
+Since Sept. 2023, I have been a research assistant in [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen (CUHKSZ)], where my research focuses on non-smooth decentralized optimization under the supervision of [https://www.xiao-li.org/ Prof. Xiao Li]. From Jun. 2022 to Sept. 2023, I was an algorithm engineer at [http://www.fabu.ai FABU.AI], focusing on addressing optimization problems related to autonomous driving. Prior to that, I pursued my Master's degree at [http://english.hust.edu.cn/ Huazhong University of Science & Technology], where I conducted research on the theory of decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Before that, I obtained my Bachelor's degree from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University].
+
+
 == News
 - Dec. 2023: Our work "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization" has been accepted by /IEEE Transactions on Control of Network Systems/.
-- Sept. 2023: I has been a research assistant at CUHK-Shenzhen.
+- Sept. 2023: I has become a research assistant at CUHKSZ.
 - Sept. 2023: I left FABU.AI.
 
 == Research Interests
-My research interests mainly focus on theory and applications of decentralized optimization, currently I am devoted to developing efficient and robust algorithms for a class of decentralized optimization problems with globally coupled constraints.
-
-# == Work Experience
-# - Jun. 2022 - Sept. 2023 : Algorithm Engineer, [http://www.fabu.ai FABU.AI]
-
-== Education
-- Sept. 2019 - Jun. 2022 : Master of Engineering in Control Science & Engineering, Huazhong University of Science & Technology
-# - Sept. 2016 - Jun. 2019 : Bachelor of Management in Engineering Management, Huazhong Agricultural University
-# - Sept. 2015 - Jul. 2016 : Majored in Aquatic Science & Technology, Huazhong Agricultural University (/I switched to Engineering Management at the beginning of my sophomore year/)
-- Sept. 2015 - Jun. 2019 : Huazhong Agricultural University
--- Sept. 2016 - Jun. 2019 : Bachelor of Management in Engineering Management
--- Sept. 2015 - Jul. 2016 : Majored in Aquatic Science & Technology (/I switched to Engineering Management in the second year/)
+My research interests mainly focus on theory and applications of decentralized optimization, currently I am interested in developing communication and computation efficient algorithms for a class of decentralized optimization problems with globally coupled constraints. Specifically speaking, consider a networked system composing of n agents, the network topology can be modeled by an undirected or directed graph, then the decentralized optimization problem is defined as
+\(
+\begin{equation} \label{original_pro} \tag{P1}
+  \begin{aligned}
+    \min_{x_i \in \mathbb{R}^{d_i}} \  & \sum_{i=1}^n f_i(x_i)    \\
+    \text{s.t.} \               & \sum_{i=1}^{n}A_ix_i = b,
+  \end{aligned}
+\end{equation}
+\)
+where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$ and $A_i \in \mathbb{R}^{p \times d_i}$ are completely private for agent $i$ and cannot be shared with its neighbors, while $b \in \mathbb{R}^{p}$ is public for all agents.
 
 == Preprints
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2309.06330 "Decentralized constraint-coupled optimization with inexact oracle"], /arXiv:2309.06330/, 2023. \[[https://arxiv.org/pdf/2309.06330.pdf PDF]\]
@@ -38,14 +42,6 @@ My research interests mainly focus on theory and applications of decentralized o
 . *Jingwang Li* and Housheng Su\*. [https://doi.org/10.1109/TCNS.2022.3203486 "Implicit tracking-based distributed constraint-coupled optimization"], /IEEE Transactions on Control of Network Systems/, 2022. \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
 . *Jingwang Li*, Qing An and Housheng Su\*. [https://doi.org/10.1016/j.amc.2022.127801 "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization"], /Applied Mathematics and Computation/, 2023.
 . *Jingwang Li*, Suoxia Miao and Housheng Su\*. [https://doi.org/10.1007/978-981-19-6613-2_96 "Distributed primal-dual mirror dynamics for constraint-coupled optimization"], /International Conference on Guidance, Navigation and Control/, 2022.
-
-== Awards
-- Jun. 2022, [http://storage.jingwang.site/doc/2022-HUST-Outstanding-Graduate.pdf Outstanding Graduate of Huazhong University of Science & Technology]
-- Sept. 2019, [http://storage.jingwang.site/doc/2019-ICICM.pdf National Innovation Contest for Intelligent Construction and Management, First prize]
-- Sept. 2019, [http://storage.jingwang.site/doc/2019-HZAU-Outstanding-Bachelor-Degree-Thesis.pdf Outstanding Bachelor Degree Thesis of Huazhong Agricultural University]
-- Jun. 2019, [http://storage.jingwang.site/doc/2019-HZAU-Outstanding-Graduate.pdf Outstanding Graduate of Huazhong Agricultural University]
-- Dec. 2017, [http://storage.jingwang.site/doc/2017-HZAU-Programming-Contest.pdf Programming Contest of Huazhong Agricultural University, Second prize]
-- Nov. 2017, [http://storage.jingwang.site/doc/2017-CUMCM.pdf China Undergraduate Mathematical Contest in Modeling, First prize]
 
 == Academic Services
 - Reviewer of
@@ -60,5 +56,5 @@ My research interests mainly focus on theory and applications of decentralized o
 # <script type="text/javascript" src="./js/china.js"></script>
 # <script type="text/javascript" src="./js/footprint.js"></script>}}
 
-# python ../jemdoc -c mysite.conf index.jemdoc
+# python ../jemdoc -c mysite.conf index.jemdoc cv.jemdoc
 # *bold* /italic/ _underscore_ 
