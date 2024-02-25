@@ -22,7 +22,7 @@ Since Sept. 2023, I have been a research assistant at [https://www.cuhk.edu.cn/e
 - Sept. 2023: I resigned from FABU.AI.
 
 == Research Interests
-My research interests mainly focus on theory and applications of decentralized optimization, currently I am interested in developing communication and computation efficient algorithms for a class of decentralized optimization problems with globally coupled constraints. Specifically speaking, consider a networked system composing of n agents, the network topology can be modeled by an undirected or directed graph, then the decentralized optimization problem is defined as
+My research interests mainly focus on theory and applications of decentralized optimization, currently I am interested in developing communication and computation efficient algorithms for a class of decentralized optimization problems with globally coupled constraints, which can cover many real-world engineering problems, such as vertical federated learning, distributed basis pursuit and distributed resource allocation. Specifically speaking, consider a networked system composing of n agents, the network topology can be modeled by an undirected or directed graph, then the decentralized optimization problem mentioned above is defined as
 \(
 \begin{equation} \label{original_pro} \tag{P1}
   \begin{aligned}
