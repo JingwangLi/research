@@ -9,29 +9,30 @@ Research Assistant,
 \n Shenzhen, China
 # \n Email: [JingwangLi@outlook.com]
 \n [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
-\n *Contact:* jingwangli\[at\]outlook\[dot\]com
+\n *Contact:* jingwangli\[at\]outlook\[dot\]com (jingwangli\[at\]cuhk\[dot\]edu\[dot\]cn)
 ~~~
 
 == About
-Since Sept. 2023, I have been a research assistant at [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen (CUHKSZ)], where my research focuses on non-smooth decentralized optimization under the supervision of [https://www.xiao-li.org/ Prof. Xiao Li]. From Jun. 2022 to Sept. 2023, I was an algorithm engineer at [http://www.fabu.ai FABU.AI], focusing on addressing optimization problems related to autonomous driving. Prior to that, I pursued my Master's degree at [http://english.hust.edu.cn/ Huazhong University of Science & Technology], where I conducted research on the theory of decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Before that, I obtained my Bachelor's degree from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University].
+I am currently a research assistant at [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen (CUHKSZ)], where I do research about decentralized optimization under the supervision of [https://www.xiao-li.org/ Prof. Xiao Li]. Previously, I worked as an algorithm engineer at [http://www.fabu.ai FABU.AI], where I was engaged in modeling and solving optimization problems related to autonomous driving.
 
+# Since Sept. 2023, I have been a research assistant at [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen (CUHKSZ)], where my research focuses on non-smooth decentralized optimization under the supervision of [https://www.xiao-li.org/ Prof. Xiao Li]. From Jun. 2022 to Sept. 2023, I was an algorithm engineer at [http://www.fabu.ai FABU.AI], focusing on addressing optimization problems related to autonomous driving. Prior to that, I pursued my Master's degree at [http://english.hust.edu.cn/ Huazhong University of Science & Technology], where I conducted research on the theory of decentralized optimization under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Before that, I obtained my Bachelor's degree from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University].
 
 == News
 - Dec. 2023: Our work "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization" has been accepted by /IEEE Transactions on Control of Network Systems/.
-- Sept. 2023: I have become a research assistant at CUHKSZ.
+- Sept. 2023: I have been a research assistant at CUHKSZ.
 - Sept. 2023: I resigned from FABU.AI.
 
 == Research Interests
-My research interests mainly focus on theory and applications of decentralized optimization, currently I am interested in developing communication and computation efficient algorithms for a class of decentralized optimization problems with globally coupled constraints, which can cover many real-world engineering problems, such as vertical federated learning, distributed basis pursuit and distributed resource allocation. Specifically speaking, consider a networked system composing of n agents, the network topology can be modeled by an undirected or directed graph, then the decentralized optimization problem mentioned above is defined as
+My research interests primarily revolve around the theory and applications of decentralized optimization. Currently, I am particularly interested in developing communication and computation efficient algorithms to solve a class of decentralized optimization problems with globally coupled constraints. In this context, we usually consider a networked system consisting of $n$ agents, and the underlying network topology can be represented by an undirected or directed graph. The problem of interest can be formulated as follows:
 \(
-\begin{equation} \label{original_pro} \tag{P1}
+\begin{equation}
   \begin{aligned}
-    \min_{x_i \in \mathbb{R}^{d_i}} \  & \sum_{i=1}^n f_i(x_i)    \\
-    \text{s.t.} \               & \sum_{i=1}^{n}A_ix_i = b,
+    \min_{x_i \in \mathbb{R}^{d_i}, y \in \mathbb{R}^p} \  & \sum_{i=1}^n \left(f_i(x_i) + g_i(x_i)\right) + h(y)   \\
+    \text{s.t.} \               & \sum_{i=1}^{n}A_ix_i = y,
   \end{aligned}
-\end{equation}
+\end{equation} \label{original_pro}
 \)
-where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$ and $A_i \in \mathbb{R}^{p \times d_i}$ are completely private for agent $i$ and cannot be shared with its neighbors, while $b \in \mathbb{R}^{p}$ is public for all agents.
+where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$, $g_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R} \cup \{+\infty\}$ and $A_i \in \mathbb{R}^{p \times d_i}$ are private for agent $i$, while $h:\mathbb{R}^p \rightarrow \mathbb{R} \cup \{+\infty\}$ is public for all agents. The problem $\eqref{original_pro}$ captures a wide range of real-world scientific and engineering problems, including decentralized vertical federated learning, decentralized optimal transport, decentralized resource allocation, and more, which is exactly why I am so interested in it.
 
 == Preprints
 . *Jingwang Li* and Housheng Su\*. [https://arxiv.org/abs/2309.06330 "Decentralized constraint-coupled optimization with inexact oracle"], /arXiv:2309.06330/, 2023. \[[https://arxiv.org/pdf/2309.06330.pdf PDF]\]
