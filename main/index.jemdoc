@@ -9,8 +9,8 @@ School of Date Science,\n
 The Chinese University of Hong Kong, Shenzhen\n
 Shenzhen, China\n
 
-*Email*: jingwangli\[at\]outlook\[dot\]com\n
-\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;jingwangli\[at\]cuhk\[dot\]edu\[dot\]cn\n
+*Email*: jingwangli \[at\] outlook.com\n
+\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;jingwangli \[at\] cuhk.edu.cn\n
 *Links*: [https://blog.jingwang.site Blog] | [cv.html CV]\n
 \&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;[https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
 # [https://blog.jingwang.site Blog] | [cv.html CV]\n
@@ -54,9 +54,9 @@ where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$, $g_i:\mathbb{R}^{d_i} \righ
 -- /IEEE Transactions on Control of Network Systems/
 -- /IEEE Transactions on Systems, Man and Cybernetics: Systems/
 
-# {{<a href='https://clustrmaps.com/site/1bwx0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=BDGsw5V6iv54McgDHRtNuFlIts1mBLDxkd05mTjZjVg'/></a>}}
+{{<a href='https://clustrmaps.com/site/1bwx0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=BDGsw5V6iv54McgDHRtNuFlIts1mBLDxkd05mTjZjVg'/></a>}}
 
-{{<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=BDGsw5V6iv54McgDHRtNuFlIts1mBLDxkd05mTjZjVg'></script>}}
+# {{<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=BDGsw5V6iv54McgDHRtNuFlIts1mBLDxkd05mTjZjVg'></script>}}
 
 # python ../jemdoc -c mysite.conf index.jemdoc cv.jemdoc
 # *bold* /italic/ _underscore_
