@@ -39,19 +39,21 @@ My research interests primarily revolve around the theory and applications of de
 \)
 where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$, $g_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R} \cup \{+\infty\}$ and $A_i \in \mathbb{R}^{p \times d_i}$ are private for agent $i$, while $h:\mathbb{R}^p \rightarrow \mathbb{R} \cup \{+\infty\}$ is public for all agents. The problem $\eqref{original_pro}$ captures a wide range of real-world scientific and engineering problems, including decentralized vertical federated learning, decentralized optimal transport, decentralized resource allocation, and more, which is exactly why it appeals to me so much.
 
-== Preprints
-. *Jingwang Li* and Housheng Su\*. "Decentralized constraint-coupled optimization with inexact oracle", /arXiv:2309.06330/, 2023. \[[https://arxiv.org/pdf/2309.06330.pdf PDF]\]
-. *Jingwang Li* and Housheng Su\*. "Gradient tracking: A unified approach to smooth distributed optimization", /arXiv:2202.09804/, 2022. \[[https://arxiv.org/pdf/2202.09804.pdf PDF]\]
+== Publications
+\* indicates the corresponding author
 
-# == Publications
-== Journal Papers
-. *Jingwang Li* and Housheng Su\*. "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization", /IEEE Transactions on Control of Network Systems, 2024/. \[[https://doi.org/10.1109/TCNS.2024.3354882 DOI]\] \[[https://arxiv.org/pdf/2205.11119.pdf PDF]\]
-. *Jingwang Li* and Housheng Su\*. "Implicit tracking-based distributed constraint-coupled optimization", /IEEE Transactions on Control of Network Systems, 2022/. \[[https://doi.org/10.1109/TCNS.2022.3203486 DOI]\] \[[https://arxiv.org/pdf/2201.07627.pdf PDF]\]
+=== Preprints
+. *Jingwang Li* and Housheng Su\*. "Decentralized constraint-coupled optimization with inexact oracle", /arXiv:2309.06330/, 2023. \[[https://arxiv.org/pdf/2309.06330.pdf arXiv]\]
+. *Jingwang Li* and Housheng Su\*. "Gradient tracking: A unified approach to smooth distributed optimization", /arXiv:2202.09804/, 2022. \[[https://arxiv.org/pdf/2202.09804.pdf arXiv]\]
+
+=== Journal Papers
+. *Jingwang Li* and Housheng Su\*. "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization", /IEEE Transactions on Control of Network Systems, 2024/. \[[https://doi.org/10.1109/TCNS.2024.3354882 DOI]\] \[[https://arxiv.org/pdf/2205.11119.pdf arXiv]\]
 . *Jingwang Li*, Qing An and Housheng Su\*. "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization", /Applied Mathematics and Computation, 2023/. \[[https://doi.org/10.1016/j.amc.2022.127801 DOI]\]
+. *Jingwang Li* and Housheng Su\*. "Implicit tracking-based distributed constraint-coupled optimization", /IEEE Transactions on Control of Network Systems, 2022/. \[[https://doi.org/10.1109/TCNS.2022.3203486 DOI]\] \[[https://arxiv.org/pdf/2201.07627.pdf arXiv]\]
 
-== Conference Papers
-. *Jingwang Li*, Suoxia Miao and Housheng Su\*. "Distributed primal-dual mirror dynamics for constraint-coupled optimization", /ICGNC 2022/. \[[https://doi.org/10.1007/978-981-19-6613-2_96 DOI]\]
+=== Conference Papers
 . Bingxi Jia\*, Haidong Ren, Zheng Yang, *Jingwang Li* and Xiaofei He. "Cascaded motion estimation for intelligent vehicles in GNSS-denied scenes", /CCC 2023/. \[[https://doi.org/10.23919/CCC58697.2023.10239725 DOI]\]
+. *Jingwang Li*, Suoxia Miao and Housheng Su\*. "Distributed primal-dual mirror dynamics for constraint-coupled optimization", /ICGNC 2022/. \[[https://doi.org/10.1007/978-981-19-6613-2_96 DOI]\]
 
 == Academic Services
 - Reviewer of
