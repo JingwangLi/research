@@ -45,12 +45,12 @@ where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$, $g_i:\mathbb{R}^{d_i} \righ
 . *Jingwang Li* and Housheng Su\*. "Decentralized constraint-coupled optimization with inexact oracle", /arXiv:2309.06330/, 2023. \[[https://arxiv.org/pdf/2309.06330.pdf arXiv]\]
 . *Jingwang Li* and Housheng Su\*. "Gradient tracking: A unified approach to smooth distributed optimization", /arXiv:2202.09804/, 2022. \[[https://arxiv.org/pdf/2202.09804.pdf arXiv]\]
 
-=== Journal Papers
+=== Journal Articles
 . *Jingwang Li* and Housheng Su\*. "NPGA: A unified algorithmic framework for decentralized constraint-coupled optimization", /IEEE Transactions on Control of Network Systems/, 2024. \[[https://doi.org/10.1109/TCNS.2024.3354882 DOI]\] \[[https://arxiv.org/pdf/2205.11119.pdf arXiv]\]
 . *Jingwang Li*, Qing An and Housheng Su\*. "Proximal nested primal-dual gradient algorithms for distributed constraint-coupled composite optimization", /Applied Mathematics and Computation/, 2023. \[[https://doi.org/10.1016/j.amc.2022.127801 DOI]\]
 . *Jingwang Li* and Housheng Su\*. "Implicit tracking-based distributed constraint-coupled optimization", /IEEE Transactions on Control of Network Systems/, 2022. \[[https://doi.org/10.1109/TCNS.2022.3203486 DOI]\] \[[https://arxiv.org/pdf/2201.07627.pdf arXiv]\]
 
-=== Conference Papers
+=== Conference Proceedings
 . Bingxi Jia\*, Haidong Ren, Zheng Yang, *Jingwang Li* and Xiaofei He. "Cascaded motion estimation for intelligent vehicles in GNSS-denied scenes", /Chinese Control Conference/, 2023. \[[https://doi.org/10.23919/CCC58697.2023.10239725 DOI]\]
 . *Jingwang Li*, Suoxia Miao and Housheng Su\*. "Distributed primal-dual mirror dynamics for constraint-coupled optimization", /International Conference on Guidance, Navigation and Control/, 2022. \[[https://doi.org/10.1007/978-981-19-6613-2_96 DOI]\]
 
