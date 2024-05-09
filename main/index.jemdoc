@@ -18,7 +18,7 @@ Shenzhen, China\n
 ~~~
 
 == About
-Currently, I am a research assistant at [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen], working on decentralized optimization under the supervision of [https://scholar.google.com/citations?user=WkRojboAAAAJ&hl=en Prof. Xiao Li]. Previously, I was an algorithm engineer at [https://www.fabu.ai FABU.AI], engaging in modeling and solving optimization problems related to autonomous driving.
+Currently, I am a research assistant at [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen], working on decentralized optimization under the mentorship of [https://scholar.google.com/citations?user=WkRojboAAAAJ&hl=en Prof. Xiao Li]. Previously, I was an algorithm engineer at [https://www.fabu.ai FABU.AI], engaging in modeling and solving optimization problems related to autonomous driving.
 Before that, I received a BSc in Engineering Management from [https://www.hzau.edu.cn/en/HOME.htm Huazhong Agricultural University] and an MPhil in Control Science & Engineering under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su] from [https://english.hust.edu.cn/ Huazhong University of Science & Technology].
 
 == News
@@ -55,9 +55,9 @@ where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$, $g_i:\mathbb{R}^{d_i} \righ
 . *Jingwang Li*, Suoxia Miao and Housheng Su\*. "Distributed primal-dual mirror dynamics for constraint-coupled optimization", /International Conference on Guidance, Navigation and Control/, 2022. \[[https://doi.org/10.1007/978-981-19-6613-2_96 DOI]\]
 
 == Academic Services
-- Reviewer of
--- /IEEE Transactions on Control of Network Systems/
--- /IEEE Transactions on Systems, Man and Cybernetics: Systems/
+Reviewer of
+- /IEEE Transactions on Control of Network Systems/
+- /IEEE Transactions on Systems, Man and Cybernetics: Systems/
 
 == Visitors Map
 The data have been collected since Oct. 2023.
