@@ -21,7 +21,7 @@ I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University o
 Previously, I received a BMgmt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University] and an MEng in Control Science & Engineering under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su] from [https://english.hust.edu.cn/ Huazhong University of Science & Technology]. After earning my MEng, I worked as an algorithm engineer at [https://www.fabu.ai FABU.AI], engaging in modeling and solving optimization problems related to autonomous driving. Upon deciding to pursue a PhD, I resigned and went to [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen] as a research assistant, where I worked on accelerated decentralized optimization under the mentorship of [https://scholar.google.com/citations?user=WkRojboAAAAJ&hl=en Prof. Xiao Li]. See my [/cv.html CV] for more detailed information.
 
 == News
-- Aug. 2023: I started my PhD at HKUST.
+- Aug. 2024: I started my PhD at HKUST.
 
 == Research Interests
 My research interests primarily revolve around the theory and applications of decentralized optimization. Currently, I am particularly interested in developing communication and computation efficient algorithms to solve a class of decentralized optimization problems with globally coupled constraints. In this context, we usually consider a networked system consisting of $n$ agents, and the underlying network topology can be represented by an undirected or directed graph. The problem of interest can be formulated as follows:
