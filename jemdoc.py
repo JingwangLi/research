@@ -146,7 +146,7 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <link rel="icon" href="./mylogo.jpg">
+  <link rel="icon" href="./figures/mylogo.jpg">
 
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
@@ -1684,7 +1684,7 @@ def main():
             thisout = outname
 
         infile = io.open(inname, 'rb')
-        outfile = io.open(thisout, 'w')
+        outfile = io.open('public/' + thisout, 'w')
 
 #    print(infile.read())
         f = controlstruct(infile, outfile, conf, inname)
