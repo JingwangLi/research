@@ -9,14 +9,22 @@ table#tlayout {
 body {
 	background: white;
     /* font-family: Verdana, Helvetica, Arial, sans-serif; /*
-	/*font-family: Monaco, Menlo, Consolas, "Courier New", monospace;*/
+	/* font-family: Monaco, Menlo, Consolas, "Courier New", monospace;*/
 	font-family: Optima, Candara, Calibri, Arial, sans-serif;
 	padding-top: 0em;
 	padding-bottom: 8px;
 	font-size: 15px;
-    line-height:1.4;
+	line-height: 1.4;
 	margin: 0 10em;
-    font-size: 1.2em;
+	font-size: 1.2em;
+}
+
+/* Customized setting for Phones */
+@media (max-width: 768px) {
+    body {
+        margin: 0 1em;
+        font-size: 1em;
+    }
 }
 
 #layout-menu {
