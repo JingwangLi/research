@@ -1,27 +1,29 @@
 # jemdoc: notime
-# menu{MENU}{index.html}, notime
-= Jingwang Li
+#menu{MENU}{index.html}, notime
 
 ~~~
-{}{img_left}{./figures/JingwangLi.jpg}{alt text}{150}{200}
-/PhD Student/, Department of Electronic & Computer Engineering\n
-The Hong Kong University of Science \& Technology\n
-Hong Kong, China\n\n
+{}{img_left}{./figures/JingwangLi.jpg}{alt text}{180}{240}
+=== Jingwang Li\n
+PhD Student\n
+Department of Electronic & Computer Engineering\n
+The Hong Kong University of Science \& Technology\n\n
 
-*Email*: jingwang.li \[at\] connect.ust.hk\n
-*Links*: [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
+Email: jingwang.li \[at\] connect.ust.hk\n
+[https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
 ~~~
 
 == About
-I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University of Science \& Technology], advised by [https://scholar.google.com/citations?hl=en&user=SpVboHsAAAAJ Prof. Vincent Lau].\n
+I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University of Science \& Technology], under the supervision of [https://scholar.google.com/citations?hl=en&user=SpVboHsAAAAJ Prof. Vincent Lau].\n
 
-Previously, I received a BMgmt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University] and an MEng in Control Science & Engineering under the supervision of [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su] from [https://english.hust.edu.cn/ Huazhong University of Science & Technology]. After that, I worked as an algorithm engineer at [https://www.fabu.ai FABU.AI], engaging in modeling and solving optimization problems related to autonomous driving. Upon deciding to pursue a PhD, I resigned and went to [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen] as a research assistant, where I worked on accelerated decentralized optimization under the mentorship of [https://scholar.google.com/citations?user=WkRojboAAAAJ&hl=en Prof. Xiao Li]. See my [/cv.html CV] for more detailed information.
+Previously, I earned a BMgmt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University], and an MEng in Control Science & Engineering from [https://english.hust.edu.cn/ Huazhong University of Science & Technology], supervised by [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Following this, I worked as an algorithm engineer at [https://www.fabu.ai FABU.AI], focusing on modeling and solving optimization problems related to autonomous driving. Upon deciding to pursue a PhD, I moved to [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen] as a research assistant, mentored by [https://scholar.google.com/citations?user=WkRojboAAAAJ&hl=en Prof. Xiao Li].\n
+
+For further details, please refer to my [/cv.html CV].
 
 == News
-- Aug. 2024: I started my PhD at HKUST.
+- Aug. 2024: I start my PhD at HKUST.
 
 == Research Interests
-My research interests primarily focus on algorithm design and convergence analysis in decentralized optimization. Currently, I am particularly interested in a specific class of decentralized optimization problems involving globally coupled constraints:
+My research interests primarily lie in algorithm design and convergence analysis for decentralized optimization. Currently, I am particularly focused on a class of decentralized optimization problems with globally coupled constraints, formulated as:
 \(
 \begin{equation}
   \begin{aligned}
@@ -30,7 +32,7 @@ My research interests primarily focus on algorithm design and convergence analys
   \end{aligned}
 \end{equation} \label{original_pro}
 \)
-where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$ is a convex and smooth function, $g_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R} \cup \{+\infty\}$ and $h:\mathbb{R}^p \rightarrow \mathbb{R} \cup \{+\infty\}$ are convex but possibly nonsmooth functions, and $A_i \in \mathbb{R}^{p \times d_i}$ is a matrix, $i = 1, \cdots, n$. Under the decentralized setting, we need to solve $\eqref{original_pro}$ over a networked system consisting of $n$ agents, where the underlying network topology can be represented by an undirected or directed graph. Particularly, $f_i$, $g_i$, and $A_i$ are private information of agent $i$, while $h$ is public for all agents. The problem $\eqref{original_pro}$ captures a wide range of real-world scientific and engineering problems, including decentralized control, decentralized vertical federated learning, decentralized resource allocation, and more, which is why it appeals to me so much.
+where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$ is a convex and smooth function, $g_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R} \cup \{+\infty\}$ and $h:\mathbb{R}^p \rightarrow \mathbb{R} \cup \{+\infty\}$ are convex but possibly nonsmooth functions, and $A_i \in \mathbb{R}^{p \times d_i}$ is a matrix, $i = 1, \cdots, n$. In the decentralized setting, we are required to solve $\eqref{original_pro}$ over a networked system of $n$ agents, where the network topology is represented by an undirected or directed graph. Notably, $f_i$, $g_i$, and $A_i$ are private to agent $i$, while $h$ is public for all agents. This formulation captures a broad spectrum of real-world applications, including decentralized control, vertical federated learning, and resource allocation.
 
 == Publications
 \* indicates the corresponding author.
@@ -51,9 +53,24 @@ where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$ is a convex and smooth funct
 == Academic Services
 Reviewer for
 - /IEEE Transactions on Control of Network Systems/
-- /IEEE Transactions on Systems, Man and Cybernetics: Systems/
 - /IEEE Transactions on Network Science and Engineering/
+- /IEEE Transactions on Systems, Man and Cybernetics: Systems/
 - /Journal of Computational and Applied Mathematics/
+
+# == Teaching
+# Teaching Assistant at HKUST for
+# - ELEC XXXX, Spring 2025
+
+== Awards & Honors
+- Jun. 2022: Outstanding Graduate of Huazhong University of Science & Technology \[[https://storage.jingwangli.com/doc/2022-HUST-Outstanding-Graduate.pdf PDF]\]
+- Sept. 2019: National Innovation Contest for Intelligent Construction and Management, /First prize/ \[[https://storage.jingwangli.com/doc/2019-ICICM.pdf PDF]\]
+- Sept. 2019: Outstanding Bachelor's Degree Thesis of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2019-HZAU-Outstanding-Bachelor-Degree-Thesis.pdf PDF]\]
+- Jun. 2019: Outstanding Graduate of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2019-HZAU-Outstanding-Graduate.pdf PDF]\]
+# - May 2018: Computer Design Contest of Huazhong Agricultural University, /Third prize/ \[[https://storage.jingwangli.com/doc/2018-HZAU-Computer-Design-Contest.pdf PDF]\]
+# - Dec. 2017: Programming Contest of Huazhong Agricultural University, /Second prize/ \[[https://storage.jingwangli.com/doc/2017-HZAU-Programming-Contest.pdf PDF]\]
+- Nov. 2017: China Undergraduate Mathematical Contest in Modeling, /First prize/ \[[https://storage.jingwangli.com/doc/2017-CUMCM.pdf PDF]\]
+# - May 2017: Surveying and Mapping Skills Contest of Huazhong Agricultural University, /Third prize/ \[[https://storage.jingwangli.com/doc/2017-HZAU-Surveying-Contest.pdf PDF]\]
+
 
 == Visitors Map
 {{<a href='https://clustrmaps.com/site/1bwx0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=BDGsw5V6iv54McgDHRtNuFlIts1mBLDxkd05mTjZjVg'/></a>}}
