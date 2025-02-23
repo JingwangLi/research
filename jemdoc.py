@@ -155,7 +155,7 @@ def standardconf():
 
   [windowtitle]
   # used in header for window title.
-  <title>|</title>
+  <title>Jingwang Li</title>
 
   [fwtitlestart]
   <div id="fwtitle">
