@@ -13,26 +13,10 @@ Email: jingwang.li \[at\] connect.ust.hk\n
 ~~~
 
 == About
-I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University of Science \& Technology], under the supervision of [https://scholar.google.com/citations?hl=en&user=SpVboHsAAAAJ Prof. Vincent Lau].\n
-
-Previously, I earned a BMgmt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University], and an MEng in Control Science & Engineering from [https://english.hust.edu.cn/ Huazhong University of Science & Technology], supervised by [https://www.researchgate.net/profile/Housheng-Su Prof. Housheng Su]. Following this, I worked as an algorithm engineer at [https://www.fabu.ai FABU.AI], focusing on modeling and solving optimization problems related to autonomous driving. Upon deciding to pursue a PhD, I moved to [https://www.cuhk.edu.cn/en the Chinese University of Hong Kong, Shenzhen] as a research assistant, mentored by [https://scholar.google.com/citations?user=WkRojboAAAAJ&hl=en Prof. Xiao Li].\n
-
-For further details, please refer to my [/cv.html CV].
+I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University of Science \& Technology], under the supervision of [https://scholar.google.com/citations?hl=en&user=SpVboHsAAAAJ Prof. Vincent Lau]. My research interests primarily revolve around decentralized optimization, specifically the design and analysis of efficient decentralized algorithms. Previously, I earned a BMgmt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University], and an MEng in Control Science & Engineering from [https://english.hust.edu.cn/ Huazhong University of Science & Technology]. For further details, please refer to my [/cv.html CV].
 
 == News
 - Aug. 2024: I start my PhD at HKUST.
-
-== Research Interests
-My research interests primarily lie in algorithm design and convergence analysis for decentralized optimization. Currently, I am particularly focused on a class of decentralized optimization problems with globally coupled constraints, formulated as:
-\(
-\begin{equation}
-  \begin{aligned}
-    \min_{x_i \in \mathbb{R}^{d_i}, y \in \mathbb{R}^p} \  & \sum_{i=1}^n \left(f_i(x_i) + g_i(x_i)\right) + h(y)   \\
-    \text{s.t.} \               & \sum_{i=1}^{n}A_ix_i = y,
-  \end{aligned}
-\end{equation} \label{original_pro}
-\)
-where $f_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R}$ is a convex and smooth function, $g_i:\mathbb{R}^{d_i} \rightarrow \mathbb{R} \cup \{+\infty\}$ and $h:\mathbb{R}^p \rightarrow \mathbb{R} \cup \{+\infty\}$ are convex but possibly nonsmooth functions, and $A_i \in \mathbb{R}^{p \times d_i}$ is a matrix, $i = 1, \cdots, n$. In the decentralized setting, we are required to solve $\eqref{original_pro}$ over a networked system of $n$ agents, where the network topology is represented by an undirected or directed graph. Notably, $f_i$, $g_i$, and $A_i$ are private to agent $i$, while $h$ is public for all agents. This formulation captures a broad spectrum of real-world applications, including decentralized control, vertical federated learning, and resource allocation.
 
 == Publications
 \* indicates the corresponding author.
@@ -66,10 +50,7 @@ Reviewer for
 - Sept. 2019: First Prize in the National Innovation Contest for Intelligent Construction and Management \[[https://storage.jingwangli.com/doc/2019-ICICM.pdf PDF]\]
 - Sept. 2019: Outstanding Bachelor's Thesis Award of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2019-HZAU-Outstanding-Bachelor-Degree-Thesis.pdf PDF]\]
 - Jun. 2019: Outstanding Graduate of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2019-HZAU-Outstanding-Graduate.pdf PDF]\]
-# - May 2018: Third Prize in the Computer Design Contest of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2018-HZAU-Computer-Design-Contest.pdf PDF]\]
-# - Dec. 2017: Second Prize in the Programming Contest of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2017-HZAU-Programming-Contest.pdf PDF]\]
 - Nov. 2017: First Prize in the China Undergraduate Mathematical Contest in Modeling \[[https://storage.jingwangli.com/doc/2017-CUMCM.pdf PDF]\]
-# - May 2017: Third Prize in the Surveying and Mapping Skills Contest of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2017-HZAU-Surveying-Contest.pdf PDF]\]
 
 
 == Visitors Map
