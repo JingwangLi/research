@@ -16,6 +16,7 @@ Email: jingwang.li \[at\] connect.ust.hk\n
 I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University of Science \& Technology], under the supervision of [https://scholar.google.com/citations?hl=en&user=SpVboHsAAAAJ Prof. Vincent Lau]. My research interests primarily revolve around decentralized optimization, specifically the design and analysis of efficient decentralized algorithms. Previously, I earned a BMgt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University], and an MEng in Control Science & Engineering from [https://english.hust.edu.cn/ Huazhong University of Science & Technology]. For further details, please refer to my [/cv.html CV].
 
 == News
+- May 2025: Our paper, "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", is now available on [https://arxiv.org/pdf/2505.03719.pdf arXiv].
 - May 2025: Our paper, "Dual Acceleration for Minimax Optimization: Linear Convergence Under Relaxed Assumptions", is now available on [https://arxiv.org/pdf/2505.02115.pdf arXiv].
 - May 2025: Our paper, "Smoothness of the Augmented Lagrangian Dual in Convex Optimization", is now available on [https://arxiv.org/pdf/2505.01824.pdf arXiv].
 - Aug. 2024: I start my PhD at HKUST.
@@ -24,6 +25,7 @@ I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University o
 \* indicates the corresponding author.
 
 === Preprints
+. *Jingwang Li* and Vincent Lau\*. "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", /arXiv:2505.03719/, 2025. \[[https://arxiv.org/pdf/2505.03719.pdf arXiv]\]
 . *Jingwang Li* and Vincent Lau\*. "Smoothness of the Augmented Lagrangian Dual in Convex Optimization", /arXiv:2505.01824/, 2025. \[[https://arxiv.org/pdf/2505.01824.pdf arXiv]\]
 . *Jingwang Li* and Xiao Li\*. "Dual Acceleration for Minimax Optimization: Linear Convergence Under Relaxed Assumptions", /arXiv:2505.02115/, 2025. \[[https://arxiv.org/pdf/2505.02115.pdf arXiv]\]
 . *Jingwang Li* and Housheng Su\*. "Decentralized constraint-coupled optimization with inexact oracle", /arXiv:2309.06330/, 2023. \[[https://arxiv.org/pdf/2309.06330.pdf arXiv]\]
