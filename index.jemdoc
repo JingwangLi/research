@@ -13,7 +13,7 @@ Email: jingwang.li \[at\] connect.ust.hk\n
 ~~~
 
 == About
-I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University of Science \& Technology], under the supervision of [https://scholar.google.com/citations?hl=en&user=SpVboHsAAAAJ Prof. Vincent Lau]. My research interests primarily revolve around decentralized optimization, specifically the design and analysis of efficient decentralized algorithms. Previously, I earned a BMgt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University], and an MEng in Control Science & Engineering from [https://english.hust.edu.cn/ Huazhong University of Science & Technology]. For further details, please refer to my [/cv.html CV].
+I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University of Science \& Technology], under the supervision of [https://scholar.google.com/citations?hl=en&user=SpVboHsAAAAJ Prof. Vincent Lau]. My research interests primarily focus on optimization, with a particular emphasis on decentralized optimization. Previously, I earned a BMgt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University], and an MEng in Control Science & Engineering from [https://english.hust.edu.cn/ Huazhong University of Science & Technology]. For further details, please refer to my [/cv.html CV].
 
 == News
 - May 2025: Our paper, "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", is now available on [https://arxiv.org/abs/2505.03719 arXiv].
@@ -48,9 +48,9 @@ Reviewer for
 - /IEEE Transactions on Systems, Man and Cybernetics: Systems/
 - /Journal of Computational and Applied Mathematics/
 
-# == Teaching
-# Teaching Assistant at HKUST for
-# - ELEC XXXX, Spring 2025
+== Teaching
+Teaching Assistant at HKUST for
+- ELEC 2600: Probability and Random Processes in Engineering, Summer 2025
 
 == Awards & Honors
 - Jun. 2022: Outstanding Graduate of Huazhong University of Science & Technology \[[https://storage.jingwangli.com/doc/2022-HUST-Outstanding-Graduate.pdf PDF]\]
