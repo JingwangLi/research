@@ -4,18 +4,20 @@
 ~~~
 {}{img_left}{./figures/JingwangLi.jpg}{alt text}{180}{240}
 === Jingwang Li\n
-PhD Student\n
-Department of Electronic & Computer Engineering\n
-The Hong Kong University of Science \& Technology\n\n
+Algorithm Engineer\n
+FABU.AI\n
+Hangzhou, China\n\n
 
-Email: jingwang.li \[at\] connect.ust.hk\n
+Email: jingwangli \[at\] outlook.com (/Preferred/) | lijingwang \[at\] fabu.ai\n
 [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
 ~~~
 
 == About
-I am currently a PhD student at [https://hkust.edu.hk the Hong Kong University of Science \& Technology], under the supervision of [https://scholar.google.com/citations?hl=en&user=SpVboHsAAAAJ Prof. Vincent Lau]. My research interests primarily focus on optimization, with a particular emphasis on decentralized optimization. Previously, I earned a BMgt in Engineering Management from [https://en.hzau.edu.cn Huazhong Agricultural University], and an MEng in Control Science & Engineering from [https://english.hust.edu.cn/ Huazhong University of Science & Technology]. For further details, please refer to my [/cv.html CV].
+I am currently an Algorithm Engineer at [https://fabu.ai FABU.AI], focusing on solving decision-making and planning problems in autonomous driving from an optimization perspective. For further details, please refer to my [/cv.html CV].
 
 == News
+- Aug. 2025: I rejoin FABU.AI as an Algorithm Engineer.
+- Aug. 2025: I withdrew from my PhD at HKUST.
 - May 2025: Our paper, "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", is now available on [https://arxiv.org/abs/2505.03719 arXiv].
 - May 2025: Our paper, "Dual Acceleration for Minimax Optimization: Linear Convergence Under Relaxed Assumptions", is now available on [https://arxiv.org/abs/2505.02115 arXiv].
 - May 2025: Our paper, "Smoothness of the Augmented Lagrangian Dual in Convex Optimization", is now available on [https://arxiv.org/abs/2505.01824 arXiv].
@@ -47,18 +49,6 @@ Reviewer for
 - /IEEE Transactions on Network Science and Engineering/
 - /IEEE Transactions on Systems, Man and Cybernetics: Systems/
 - /Journal of Computational and Applied Mathematics/
-
-== Teaching
-Teaching Assistant at HKUST for
-- ELEC 2600: Probability and Random Processes in Engineering, Summer 2025
-
-== Awards & Honors
-- Jun. 2022: Outstanding Graduate of Huazhong University of Science & Technology \[[https://storage.jingwangli.com/doc/2022-HUST-Outstanding-Graduate.pdf PDF]\]
-- Sept. 2019: First Prize in the National Innovation Contest for Intelligent Construction and Management \[[https://storage.jingwangli.com/doc/2019-ICICM.pdf PDF]\]
-- Sept. 2019: Outstanding Bachelor's Thesis Award of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2019-HZAU-Outstanding-Bachelor-Degree-Thesis.pdf PDF]\]
-- Jun. 2019: Outstanding Graduate of Huazhong Agricultural University \[[https://storage.jingwangli.com/doc/2019-HZAU-Outstanding-Graduate.pdf PDF]\]
-- Nov. 2017: First Prize in the China Undergraduate Mathematical Contest in Modeling \[[https://storage.jingwangli.com/doc/2017-CUMCM.pdf PDF]\]
-
 
 == Visitors Map
 {{<a href='https://clustrmaps.com/site/1bwx0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=BDGsw5V6iv54McgDHRtNuFlIts1mBLDxkd05mTjZjVg'/></a>}}
