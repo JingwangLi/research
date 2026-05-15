@@ -7,15 +7,16 @@
 Algorithm Engineer, FABU.AI\n
 Hangzhou, China\n\n
 
-Email: jingwangli \[at\] outlook.com (/Preferred/) | lijingwang \[at\] fabu.ai\n
+Email: jingwangli \[at\] outlook.com\n
 [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
 ~~~
 
 == About
-I am currently an Algorithm Engineer at [https://fabu.ai FABU.AI], focusing on solving decision-making and planning problems in autonomous driving from an optimization perspective. For further details, please refer to my [/cv.html CV].
+I am currently an algorithm engineer at [https://fabu.ai FABU.AI], focusing on solving decision-making and planning problems in autonomous driving from an optimization perspective. For further details, please refer to my [/cv.html CV].
 
 == News
-- Aug. 2025: I rejoin FABU.AI as an Algorithm Engineer.
+- May 2026: Our paper, "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", is accepted by /IEEE Transactions on Signal Processing/.
+- Aug. 2025: I rejoin FABU.AI as an algorithm engineer.
 - Aug. 2025: I withdraw from my PhD at HKUST.
 - May 2025: Our paper, "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", is now available on [https://arxiv.org/abs/2505.03719 arXiv].
 - May 2025: Our paper, "Dual Acceleration for Minimax Optimization: Linear Convergence Under Relaxed Assumptions", is now available on [https://arxiv.org/abs/2505.02115 arXiv].
@@ -26,13 +27,13 @@ I am currently an Algorithm Engineer at [https://fabu.ai FABU.AI], focusing on s
 \* indicates the corresponding author.
 
 === Preprints
-. *Jingwang Li* and Vincent Lau\*. "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", /arXiv:2505.03719/, 2025. \[[https://arxiv.org/abs/2505.03719 arXiv]\]
 . *Jingwang Li* and Vincent Lau\*. "Smoothness of the Augmented Lagrangian Dual in Convex Optimization", /arXiv:2505.01824/, 2025. \[[https://arxiv.org/abs/2505.01824 arXiv]\]
 . *Jingwang Li* and Xiao Li\*. "Dual Acceleration for Minimax Optimization: Linear Convergence Under Relaxed Assumptions", /arXiv:2505.02115/, 2025. \[[https://arxiv.org/abs/2505.02115 arXiv]\]
 . *Jingwang Li* and Housheng Su\*. "Decentralized Constraint-Coupled Optimization with Inexact Oracle", /arXiv:2309.06330/, 2023. \[[https://arxiv.org/abs/2309.06330 arXiv]\]
 . *Jingwang Li* and Housheng Su\*. "Gradient Tracking: A Unified Approach to Smooth Distributed Optimization", /arXiv:2202.09804/, 2022. \[[https://arxiv.org/abs/2202.09804 arXiv]\]
 
 === Journal Articles
+. *Jingwang Li* and Vincent Lau\*. "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", to appear in /IEEE Transactions on Signal Processing/. \[[https://arxiv.org/abs/2505.03719 arXiv]\]
 . *Jingwang Li* and Housheng Su\*. "NPGA: A Unified Algorithmic Framework for Decentralized Constraint-Coupled Optimization", /IEEE Transactions on Control of Network Systems/, 2024. \[[https://doi.org/10.1109/TCNS.2024.3354882 DOI]\] \[[https://arxiv.org/abs/2205.11119 arXiv]\]
 . *Jingwang Li*, Qing An and Housheng Su\*. "Proximal Nested Primal-Dual Gradient Algorithms for Distributed Constraint-Coupled Composite Optimization", /Applied Mathematics and Computation/, 2023. \[[https://doi.org/10.1016/j.amc.2022.127801 DOI]\]
 . *Jingwang Li* and Housheng Su\*. "Implicit Tracking-Based Distributed Constraint-Coupled Optimization", /IEEE Transactions on Control of Network Systems/, 2022. \[[https://doi.org/10.1109/TCNS.2022.3203486 DOI]\] \[[https://arxiv.org/abs/2201.07627 arXiv]\]
