@@ -51,9 +51,16 @@ Reviewer for
 - /Journal of Computational and Applied Mathematics/
 
 == Visitors Map
-{{<a href='https://clustrmaps.com/site/1bwx0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=BDGsw5V6iv54McgDHRtNuFlIts1mBLDxkd05mTjZjVg'/></a>}}
-
-# {{<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=BDGsw5V6iv54McgDHRtNuFlIts1mBLDxkd05mTjZjVg'></script>}}
+~~~
+{}{raw}
+<div style="width: 30%; min-width: 280px; max-width: 100%; margin: 1.5rem 0 2rem 0; text-align: left; overflow: hidden;">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=1S35OY4EW-icFHp1QQQkUQj6qQja0TJHaHBF_3opuyk&cl=ffffff&w=a">
+  </script>
+</div>
+~~~
 
 # python jemdoc.py -c mysite.conf index cv
 # *bold* /italic/ _underscore_
