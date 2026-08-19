@@ -4,17 +4,19 @@
 ~~~
 {}{img_left}{./figures/JingwangLi.jpg}{alt text}{180}{240}
 === Jingwang Li\n
-Algorithm Engineer, FABU.AI\n
-Hangzhou, China\n\n
+Algorithm Engineer, Meituan\n
+Beijing, China\n\n
 
 Email: jingwangli \[at\] outlook.com\n
 [https://scholar.google.com/citations?user=FPh5CyoAAAAJ&hl=en Google Scholar] | [https://github.com/JingwangLi Github]
 ~~~
 
 == About
-I am currently an algorithm engineer at [https://fabu.ai FABU.AI], focusing on solving decision-making and planning problems in autonomous driving from an optimization perspective. For further details, please refer to my [/cv.html CV].
+I am currently an algorithm engineer at [https://www.meituan.com/en-US/about-us Meituan], focusing on solving decision-making and planning problems in autonomous driving. For further details, please refer to my [/cv.html CV].
 
 == News
+- Aug. 2026: I join Meituan as an algorithm engineer.
+- Aug. 2026: I leave FABU.AI.
 - May 2026: Our paper, "Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach", is accepted by /IEEE Transactions on Signal Processing/.
 - Aug. 2025: I rejoin FABU.AI as an algorithm engineer.
 - Aug. 2025: I withdraw from my PhD at HKUST.
